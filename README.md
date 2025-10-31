@@ -29,26 +29,6 @@
 
 ---
 
-## 💻 Lenguajes más usados
-
-<!-- Bloque centrado sin usar el atributo align obsoleto -->
-<div style="text-align:center">
-  <picture>
-    <!-- Versión tema oscuro -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%231a1b27&c={type:'doughnut',data:{labels:['Java','Python','C','PowerShell','Linux'],datasets:[{data:[45,20,15,10,10],backgroundColor:['%23f7768e','%2373daca','%232ac3de','%23bb9af7','%23e0af68'],label:'Languages'}]},options:{plugins:{datalabels:{color:'%23a9b1d6',formatter:(value)=>value+'%'}},legend:{position:'right',labels:{color:'%23a9b1d6',font:{size:14}}},responsive:true,maintainAspectRatio:false}}"
-    >
-    <!-- Versión tema claro -->
-    <img
-      src="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%23ffffff&c={type:'doughnut',data:{labels:['Java','Python','C','PowerShell','Linux'],datasets:[{data:[45,20,15,10,10],backgroundColor:['%23f7768e','%2373daca','%232ac3de','%23bb9af7','%23e0af68'],label:'Languages'}]},options:{plugins:{datalabels:{color:'%23333',formatter:(value)=>value+'%'}},legend:{position:'right',labels:{color:'%23333',font:{size:14}}},responsive:true,maintainAspectRatio:false}}"
-      alt="Lenguajes de programación más usados (Personalizado)"
-    />
-  </picture>
-</div>
-
----
-
 ## 📫 Contacto
 
 📧 **Email:** [alejandrodelariva200@gmail.com](mailto:alejandrodelariva200@gmail.com)
