@@ -32,7 +32,14 @@
 ## 💻 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDeLaRivaGarcia&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" />
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://www.google.com/search?q=https://quickchart.io/chart%3Fv%3D4%26width%3D450%26height%3D220%26backgroundColor%3D%25231a1b27%26c%3D%257Btype%253A%2527doughnut%2527%252Cdata%253A%257Blabels%253A%255B%2527Java%2527%252C%2527Python%2527%252C%2527C%2527%252C%2527PowerShell%2527%252C%2527Linux%2527%255D%252Cdatasets%253A%255B%257Bdata%253A%255B45%252C20%252C15%252C10%252C10%255D%252CbackgroundColor%253A%255B%2527%252523f7768e%2527%252C%2527%25252373daca%2527%252C%2527%2525232ac3de%2527%252C%2527%252523bb9af7%2527%252C%2527%252523e0af68%2527%255D%252Clabel%253A%2527Languages%2527%257D%255D%257D%252Coptions%253A%257Bplugins%253A%257Bdatalabels%253A%257Bcolor%253A%2527%252523a9b1d6%2527%252Cformatter%253A%2528value%2529%25253D%25253Evalue%25252B%252527%252525%252527%25257D%252Clegend%253A%257Bposition%253A%2527right%2527%252Clabels%253A%257BfontColor%253A%2527%252523a9b1d6%2527%252CfontSize%253A14%257D%257D%257D%252Cresponsive%253Atrue%252CmaintainAspectRatio%253Afalse%257D%257D">
+<img
+src="https://www.google.com/search?q=https://quickchart.io/chart%3Fv%3D4%26width%3D450%26height%3D220%26backgroundColor%3D%2523ffffff%26c%3D%257Btype%253A%2527doughnut%2527%252Cdata%253A%257Blabels%253A%255B%2527Java%2527%252C%2527Python%2527%252C%2527C%2527%252C%2527PowerShell%2527%252C%2527Linux%2527%255D%252Cdatasets%253A%255B%257Bdata%253A%255B45%252C20%252C15%252C10%252C10%255D%252CbackgroundColor%253A%255B%2527%252523f7768e%2527%252C%2527%25252373daca%2527%252C%2527%2525232ac3de%2527%252C%2527%252523bb9af7%2527%252C%2527%252523e0af68%2527%255D%252Clabel%253A%2527Languages%2527%257D%255D%257D%252Coptions%253A%257Bplugins%253A%257Bdatalabels%253A%257Bcolor%253A%2527%252523333%2527%252Cformatter%253A%2528value%2529%25253D%25253Evalue%25252B%252527%252525%252527%25257D%252Clegend%253A%257Bposition%253A%2527right%2527%252Clabels%253A%257BfontColor%253A%2527%252523333%2527%252CfontSize%253A14%257D%257D%257D%252Cresponsive%253Atrue%252CmaintainAspectRatio%253Afalse%257D%257D"
+alt="Lenguajes más usados (Personalizado)" />
+</picture>
 </p>
 
 ---
