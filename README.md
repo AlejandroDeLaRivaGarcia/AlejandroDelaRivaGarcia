@@ -33,15 +33,13 @@
 
 <p align="center">
 <picture>
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://www.google.com/search?q=https://quickchart.io/chart%3Fv%3D4%26width%3D450%26height%3D220%26backgroundColor%3D%25231a1b27%26c%3D%257Btype%253A%2527doughnut%2527%252Cdata%253A%257Blabels%253A%255B%2527Java%2527%252C%2527Python%2527%252C%2527C%2527%252C%2527PowerShell%2527%252C%2527Linux%2527%255D%252Cdatasets%253A%255B%257Bdata%253A%255B45%252C20%252C15%252C10%252C10%255D%252CbackgroundColor%253A%255B%2527%252523f7768e%2527%252C%2527%25252373daca%2527%252C%2527%2525232ac3de%2527%252C%2527%252523bb9af7%2527%252C%2527%252523e0af68%2527%255D%252Clabel%253A%2527Languages%2527%257D%255D%257D%252Coptions%253A%257Bplugins%253A%257Bdatalabels%253A%257Bcolor%253A%2527%252523a9b1d6%2527%252Cformatter%253A%2528value%2529%25253D%25253Evalue%25252B%252527%252525%252527%25257D%252Clegend%253A%257Bposition%253A%2527right%2527%252Clabels%253A%257BfontColor%253A%2527%252523a9b1d6%2527%252CfontSize%253A14%257D%257D%257D%252Cresponsive%253Atrue%252CmaintainAspectRatio%253Afalse%257D%257D">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%231a1b27&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Python%27%2C%27C%27%2C%27PowerShell%27%2C%27Linux%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C20%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2523f7768e%27%2C%27%252373daca%27%2C%27%25232ac3de%27%2C%27%2523bb9af7%27%2C%27%2523e0af68%27%5D%2Clabel%3A%27Languages%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bcolor%3A%27%2523a9b1d6%27%2Cformatter%3A%28value%29%253D%253Evalue%252B%2527%2525%2527%7D%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2523a9b1d6%27%2CfontSize%3A14%7D%7D%7D%2Cresponsive%3Atrue%2CmaintainAspectRatio%3Afalse%7D%7D">
 <img
-src="https://www.google.com/search?q=https://quickchart.io/chart%3Fv%3D4%26width%3D450%26height%3D220%26backgroundColor%3D%2523ffffff%26c%3D%257Btype%253A%2527doughnut%2527%252Cdata%253A%257Blabels%253A%255B%2527Java%2527%252C%2527Python%2527%252C%2527C%2527%252C%2527PowerShell%2527%252C%2527Linux%2527%255D%252Cdatasets%253A%255B%257Bdata%253A%255B45%252C20%252C15%252C10%252C10%255D%252CbackgroundColor%253A%255B%2527%252523f7768e%2527%252C%2527%25252373daca%2527%252C%2527%2525232ac3de%2527%252C%2527%252523bb9af7%2527%252C%2527%252523e0af68%2527%255D%252Clabel%253A%2527Languages%2527%257D%255D%257D%252Coptions%253A%257Bplugins%253A%257Bdatalabels%253A%257Bcolor%253A%2527%252523333%2527%252Cformatter%253A%2528value%2529%25253D%25253Evalue%25252B%252527%252525%252527%25257D%252Clegend%253A%257Bposition%253A%2527right%2527%252Clabels%253A%257BfontColor%253A%2527%252523333%2527%252CfontSize%253A14%257D%257D%257D%252Cresponsive%253Atrue%252CmaintainAspectRatio%253Afalse%257D%257D"
+src="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%23ffffff&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Python%27%2C%27C%27%2C%27PowerShell%27%2C%27Linux%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C20%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2523f7768e%27%2C%27%252373daca%27%2C%27%25232ac3de%27%2C%27%2523bb9af7%27%2C%27%2523e0af68%27%5D%2Clabel%3A%27Languages%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bcolor%3A%27%2523333%27%2Cformatter%3A%28value%29%253D%253Evalue%252B%2527%2525%2527%7D%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2523333%27%2CfontSize%3A14%7D%7D%7D%2Cresponsive%3Atrue%2CmaintainAspectRatio%3Afalse%7D%7D"
 alt="Lenguajes más usados (Personalizado)" />
 </picture>
 </p>
-
 ---
 
 ## 📫 Contacto
