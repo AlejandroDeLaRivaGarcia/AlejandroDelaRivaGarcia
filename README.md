@@ -33,13 +33,17 @@
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%231a1b27&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Python%27%2C%27C%27%2C%27PowerShell%27%2C%27Linux%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C20%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2523f7768e%27%2C%27%252373daca%27%2C%27%25232ac3de%27%2C%27%2523bb9af7%27%2C%27%2523e0af68%27%5D%2Clabel%3A%27Languages%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bcolor%3A%27%2523a9b1d6%27%2Cformatter%3A%28value%29%253D%253Evalue%252B%2527%2525%2527%7D%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2523a9b1d6%27%2CfontSize%3A14%7D%7D%7D%2Cresponsive%3Atrue%2CmaintainAspectRatio%3Afalse%7D%7D">
-<img
-src="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%23ffffff&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Python%27%2C%27C%27%2C%27PowerShell%27%2C%27Linux%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C20%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2523f7768e%27%2C%27%252373daca%27%2C%27%25232ac3de%27%2C%27%2523bb9af7%27%2C%27%2523e0af68%27%5D%2Clabel%3A%27Languages%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bcolor%3A%27%2523333%27%2Cformatter%3A%28value%29%253D%253Evalue%252B%2527%2525%2527%7D%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2523333%27%2CfontSize%3A14%7D%7D%7D%2Cresponsive%3Atrue%2CmaintainAspectRatio%3Afalse%7D%7D"
-alt="Lenguajes más usados (Personalizado)" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%231a1b27&c={type:'doughnut',data:{labels:['Java','Python','C','PowerShell','Linux'],datasets:[{data:[45,20,15,10,10],backgroundColor:['%23f7768e','%2373daca','%232ac3de','%23bb9af7','%23e0af68'],label:'Languages'}]},options:{plugins:{datalabels:{color:'%23a9b1d6',formatter:(value)=>value+'%'}},legend:{position:'right',labels:{fontColor:'%23a9b1d6',fontSize:14}},responsive:true,maintainAspectRatio:false}}"
+  >
+  <img
+    src="https://quickchart.io/chart?v=4&width=450&height=220&backgroundColor=%23ffffff&c={type:'doughnut',data:{labels:['Java','Python','C','PowerShell','Linux'],datasets:[{data:[45,20,15,10,10],backgroundColor:['%23f7768e','%2373daca','%232ac3de','%23bb9af7','%23e0af68'],label:'Languages'}]},options:{plugins:{datalabels:{color:'%23333',formatter:(value)=>value+'%'}},legend:{position:'right',labels:{fontColor:'%23333',fontSize:14}},responsive:true,maintainAspectRatio:false}}"
+    alt="Lenguajes más usados (Personalizado)"
+  />
 </picture>
 </p>
+
 ---
 
 ## 📫 Contacto
