@@ -1,7 +1,7 @@
 # ¡Hola 👋, soy Alejandro de la Riva!
 
-🎓 **Estudiante de Ingeniería Informática en la Universidad Europea del Atlántico.  
-💡 Apasionado por la tecnología, el desarrollo de software y el aprendizaje constante.**
+🎓 **Estudiante de Ingeniería Informática** en la Universidad Europea del Atlántico.  
+💡 Apasionado por la tecnología, el desarrollo de software y el aprendizaje constante.
 
 ---
 
