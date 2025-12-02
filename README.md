@@ -21,14 +21,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDeLaRivaGarcia&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
----
-
 ## 📫 Contacto
 
 📧 **Email:** [alejandrodelariva200@gmail.com](mailto:alejandrodelariva200@gmail.com)
